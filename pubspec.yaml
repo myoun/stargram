@@ -1,5 +1,5 @@
 name: stargram
-description: A new Flutter project.
+description: Instagram Clone
 
 publish_to: 'none'
 
@@ -14,6 +14,7 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   flutter_svg: ^1.0.0
+  http: ^0.13.4
 
 dev_dependencies:
   flutter_test:
